@@ -1,4 +1,4 @@
----
+---main<>page
 title: Managing workflow runs
 shortTitle: Managing workflow runs
 intro: 'You can view the status and results of each step in your workflow, cancel a pending workflow, {% ifversion fpt or ghes > 3.0 or ghae %}review deployments, {% endif %}view billable job execution minutes, debug and re-run a failed workflow, search and download logs, and download artifacts.'

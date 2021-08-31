@@ -1,3 +1,4 @@
+Mani<>page
 import { graphql } from '@octokit/graphql'
 
 // Shared functions for managing projects (memex)

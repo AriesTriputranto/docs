@@ -1,4 +1,4 @@
----
+---user.md
 title: Users
 intro: The Users API allows to get public and private information about the authenticated user.
 redirect_from:

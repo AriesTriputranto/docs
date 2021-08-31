@@ -1,4 +1,4 @@
----
+---Docs-API-github-main<>page
 title: Getting started with the API
 redirect_from:
   - /articles/getting-started-with-the-api

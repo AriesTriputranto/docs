@@ -1,4 +1,4 @@
----
+---index.md
 title: Site policy
 redirect_from:
   - /categories/61/articles/

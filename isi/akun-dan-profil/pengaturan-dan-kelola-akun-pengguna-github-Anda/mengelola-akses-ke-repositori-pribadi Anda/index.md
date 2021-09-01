@@ -1,4 +1,4 @@
----
+---Main<>page present :
 title: Managing access to your personal repositories
 intro: You can give people collaborator access to repositories owned by your personal account.
 redirect_from:

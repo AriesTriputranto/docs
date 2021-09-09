@@ -1,3 +1,5 @@
+Menu<>pages 
+Articles-presentation:
 ---
 title: Configuring autolinks to reference external resources
 intro: You can add autolinks to external resources like JIRA issues and Zendesk tickets to help streamline your workflow.

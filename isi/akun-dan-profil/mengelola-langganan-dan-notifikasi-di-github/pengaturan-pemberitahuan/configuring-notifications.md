@@ -1,4 +1,4 @@
----
+---Presenting Pages:
 title: Configuring notifications
 intro: 'Choose the type of activity on {% data variables.product.product_name %} that you want to receive notifications for and how you want these updates delivered.'
 redirect_from:
@@ -263,3 +263,4 @@ You can choose whether to watch or unwatch an individual repository. You can als
    ![Watch settings dropdown menu in {% data variables.product.prodname_mobile %}](/assets/images/help/notifications-v2/mobile-watch-settings.png)
 
 {% endif %}
+good luck with the steps

@@ -1,4 +1,5 @@
----
+---Menu-pages
+Realease markup-down-price-marketUESurvey-file
 title: Repositories
 intro: "Learn to use and manage the repositories that allow you to store and collaborate on your project's code."
 redirect_from:
@@ -17,5 +18,7 @@ children:
   - /releasing-projects-on-github
   - /viewing-activity-and-data-for-your-repository
   - /archiving-a-github-repository
+Any all be repository contributor and editing by GitHub
+Thank you to follow steps
 ---
 

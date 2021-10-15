@@ -73,4 +73,6 @@ All other code in this repository is licensed under a [MIT license](LICENSE-CODE
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
-https://en.m.wikipedia.org/Wiki/githu_Docs
+basic understanding of terms from Wikipedia presenting link :
+
+https://en.m.wikipedia.org/Wiki/github_Docs

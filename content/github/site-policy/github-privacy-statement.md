@@ -1,24 +1,28 @@
----
-title: GitHub Privacy Statement
-redirect_from:
+----
+ #presenting:
+
+at the end of the page of the javascript license
+
+# title: GitHub Privacy Statement
+  redirect_from:
   - /privacy/
   - /privacy-policy/
   - /privacy-statement/
   - /github-privacy-policy/
   - /articles/github-privacy-policy/
   - /articles/github-privacy-statement/
-versions:
+ versions:
   fpt: '*'
-topics:
+ topics:
   - Policy
   - Legal
 ---
 
-Effective date: December 19, 2020
+ Effective date: December 19, 2020
 
-Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
+ Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code, your projects, and your personal information. Holding on to your private information is a serious responsibility, and we want you to know how we're handling it.
 
-All capitalized terms have their definition in [GitHub’s Terms of Service](/github/site-policy/github-terms-of-service), unless otherwise noted here.
+ All capitalized terms have their definition in [GitHub’s Terms of Service](/github/site-policy/github-terms-of-service), unless otherwise noted here.
 
 
 ## The short version
@@ -340,3 +344,7 @@ Cliquez ici pour obtenir la version française: [Déclaration de confidentialit�
 ### Other translations
 
 For translations of this statement into other languages, please visit [https://docs.github.com/](/) and select a language from the drop-down menu under “English.”
+
+https://en.wikipedia.org/Wiki/javascript_2.0
+
+by using the javascript 2.0 license 

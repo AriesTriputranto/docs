@@ -1,4 +1,5 @@
----
+--- presenting : sites-open-source
+ # - repository file content 
 title: Creating new files
 intro: 'You can create new files directly on {% data variables.product.product_name %} in any repository you have write access to.'
 redirect_from:
@@ -33,3 +34,5 @@ When creating a file on {% data variables.product.product_name %}, consider the 
 {% data reusables.files.choose-commit-email %}
 {% data reusables.files.choose_commit_branch %}
 {% data reusables.files.propose_new_file %}
+ # https://github.com/repository
+ Thanks follow steps

@@ -75,4 +75,4 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 
 basic understanding of terms from Wikipedia presenting link :
 
-https://en.m.wikipedia.org/Wiki/github_Docs
+https://en.m.wikipedia.org/wiki/github_Docs

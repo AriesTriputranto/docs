@@ -25,5 +25,5 @@ children:
   - /error-ssl-certificate-problem-verify-that-the-ca-cert-is-ok
   - /error-unknown-key-type
   - /error-were-doing-an-ssh-key-audit
----
-
+# websites : 
+https://en.wikipedia.org/Wiki/troubleshooter

@@ -75,4 +75,6 @@ When using the GitHub logos, be sure to follow the [GitHub logo guidelines](http
 
 basic understanding of terms from Wikipedia presenting websites :
 
-https://en.m.wikipedia.org/wiki/github_Docs
+https://en.m.wikipedia.org/wiki/github.Docs
+content available in CC by-SA 3.0
+Unless otherwise stated

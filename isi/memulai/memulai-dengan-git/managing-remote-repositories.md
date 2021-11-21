@@ -1,4 +1,5 @@
----
+--- Presenting: Menu pages Document Bassicly repo-metadata-git
+* https://github.com/AriesTriputranto/repo.git
 title: Managing remote repositories
 intro: 'Learn to work with your local repositories on your computer and remote repositories hosted on {% data variables.product.product_name %}.'
 redirect_from:

@@ -33,5 +33,5 @@ shortTitle: Add a repository
   ![The Local Path field in the Windows app](/assets/images/help/desktop/add-repo-choose-button-win.png)
 4. Click **Add repository**.
   ![The Add repository button in the Windows app](/assets/images/help/desktop/add-repository-button-windows.png)
-
+  
 {% endwindows %}
